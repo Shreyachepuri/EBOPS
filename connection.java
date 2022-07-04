@@ -60,7 +60,7 @@ public class connection {
 	/** 
 	 * @generated "UML to Java V5.0 (com.ibm.xtools.transform.uml2.java5.internal.UML2JavaTransform)"
 	 */
-	private Object connectio_name;
+	private Object connection_name;
 
 	/** 
 	 * @return the connectio_name
@@ -76,7 +76,7 @@ public class connection {
 	 * @param theConnectio_name the connectio_name to set
 	 * @generated "UML to Java V5.0 (com.ibm.xtools.transform.uml2.java5.internal.UML2JavaTransform)"
 	 */
-	public void setConnectio_name(Object theConnectio_name) {
+	public void setConnection_name(Object theConnectio_name) {
 		// begin-user-code
 		connectio_name = theConnectio_name;
 		// end-user-code
