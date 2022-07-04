@@ -60,7 +60,7 @@ public class admin {
 	/** 
 	 * @generated "UML to Java V5.0 (com.ibm.xtools.transform.uml2.java5.internal.UML2JavaTransform)"
 	 */
-	private Object usernmae;
+	private Object Usernmae;
 
 	/** 
 	 * @return the usernmae
