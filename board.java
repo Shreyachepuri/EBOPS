@@ -60,7 +60,7 @@ public class board {
 	/** 
 	 * @generated "UML to Java V5.0 (com.ibm.xtools.transform.uml2.java5.internal.UML2JavaTransform)"
 	 */
-	public void typr_of_board() {
+	public void type_of_board() {
 		// begin-user-code
 		// TODO Auto-generated method stub
 
